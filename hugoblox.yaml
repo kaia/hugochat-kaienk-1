@@ -1,6 +1,6 @@
 template:
   id: starter
 build:
-  hugo_version: 0.121.0
+  hugo_version:  0.124.1
 deploy:
   host: github-pages
