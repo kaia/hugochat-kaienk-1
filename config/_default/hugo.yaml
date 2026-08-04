@@ -1,0 +1,6 @@
+yaml
+
+baseURL: "https://<your-github-username>.github.io/<your-repo-name>/"
+title: "Psykoterapi i trygge omgivelser"
+languageCode: "nb-no"
+theme: "blox"

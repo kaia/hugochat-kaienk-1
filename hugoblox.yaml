@@ -1,0 +1,8 @@
+yaml
+
+template:
+  id: starter
+build:
+  hugo_version: 0.121.0
+deploy:
+  host: github-pages

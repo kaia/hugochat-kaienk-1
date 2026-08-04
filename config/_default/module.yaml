@@ -1,0 +1,4 @@
+yaml
+
+imports:
+  - path: github.com/HugoBlox/kit/modules/blox
