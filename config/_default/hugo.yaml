@@ -1,6 +1,6 @@
 yaml
 
-baseURL: "https://<your-github-username>.github.io/<your-repo-name>/"
+baseURL: "https://kaia.github.io/hugochat-kaienk-1/"
 title: "Psykoterapi i trygge omgivelser"
 languageCode: "nb-no"
 theme: "blox"
