@@ -10,9 +10,9 @@ toc: false
 
 | Tjeneste                | Pris   |
 |------------------------|-------|
-| Individuell terapi (50 min)   | 1200 kr |
-| Parterapi (75 min)           | 1700 kr |
-| Veiledning (50 min)          | 1200 kr |
+| Første time, vi blir litt kjent og kommer i gang, inntil 90 minutter | 700 kr |
+| Ordinære timer, inntil 60 minutter | 700 kr |
+| Video/telefon/spasertur, inntil 60 minutter | 700 kr |
 
 Alle samtaler betales kun etter avtale og du er aldri bundet til flere timer enn du ønsker.
 
