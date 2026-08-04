@@ -1,6 +1,6 @@
 ---
-title: Blogg og vlogg
-summary: Fagblogg og vlogg om psykoterapi, mental helse, og aktuelle temaer innenfor terapi og livsmestring. Åpent og ærlig skrevet for alle interesserte.
+title: Blogg
+summary: Fagblogg gestalt psykoterapi, mental helse, og aktuelle temaer innenfor terapi og livsmestring. Åpent og ærlig skrevet for alle interesserte.
 date: 2026-08-04
 draft: false
 ---
